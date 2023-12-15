@@ -1,0 +1,19 @@
+MIT App Inventor (https://appinventor.mit.edu/) is a web-based platform developed by the Massachusetts Institute of Technology (MIT) that allows individuals to create mobile applications for Android devices and some Apple devices without the need for extensive programming knowledge. 
+It provides a visual, drag-and-drop interface that simplifies the process of app development, making it accessible to people with various levels of coding experience. 
+
+We will use MIT App Inventor to build an Android app to control our Matatu. Below is a couple of resources to get you started.  
+
+
+##Youtube: Introduction to MIT App Inventor by Building an App
+1. Bluetooth controlled Robot using Arduino Uno and MIT APP Inventor
+	https://youtu.be/QC6TDIduhfg 
+	Follow along this video to create your first SIMPLE MIT App to control the RC Car
+
+2. HC-05 Bluetooth Module with Arduino-MIT App Inventor
+	https://youtu.be/aQcJ4uHdQEA
+	Incase the app you build above does not connect to bluetooth, Use this as a fix 
+
+Challenge: Included in the kit is a simple app.
+Find ways to make the app visually appealing.
+
+During the installation of the apps made in MIT App Inventor, you may receive information messages from Android that temporarily block the installation. Please disregard them, as the app is secure (we developed it!). This error occurs because we need to register the app in the Play Store. 
